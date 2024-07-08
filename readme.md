@@ -1,7 +1,7 @@
-mage compiler
+skeleton code for llvm passes
 
 ```sh
-bash install_llvm.sh     # This install LLVM-14 
+bash install_llvm.sh 
 ```
 
 Compile the pass and tests
